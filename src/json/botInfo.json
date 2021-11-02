@@ -1,7 +1,7 @@
 {
-  "botname": "Zacros Bot",
+  "botname": "HanBotz",
   "ownerNumber": [
-    "YOUR NUMBER"
+    "6285731855426"
   ],
   "thumb": "https://i.pinimg.com/736x/64/7d/f2/647df293f9d2e552ccae82450785838c.jpg",
   "footerText": "Powered by zacros team",
@@ -41,5 +41,5 @@
     "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
     "botAdmin": "Bot Nya Admin Dong"
   },
-    "session":null
+    "session":Han
 }
