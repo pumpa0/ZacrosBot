@@ -1,10 +1,10 @@
 {
-  "botname": "Zacros Bot",
+  "botname": "HanBotz",
   "ownerNumber": [
-    "YOUR NUMBER"
+    "6285731855426"
   ],
-  "thumb": "https://i.pinimg.com/736x/64/7d/f2/647df293f9d2e552ccae82450785838c.jpg",
-  "footerText": "Powered by zacros team",
+  "thumb": "https://i.postimg.cc/fRSq9Yh7/IMG-20211031-WA0005.jpg",
+  "footerText": "Hanz",
   "prefix": [
     ".",
     "!",
@@ -14,7 +14,7 @@
     "+",
     ","
   ],
-  "ownername": "Zacros Team",
+  "ownername": "HAN",
   "unicode" : {
   "head": "⬣",
   "list": "⬡",
@@ -39,7 +39,13 @@
     "_media": "Kirim Pesan Media Atau Tag Pesan Yang Terdapat Media",
     "Error": "Something error",
     "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
-    "botAdmin": "Bot Nya Admin Dong"
+    "botAdmin": "Bot Nya Jadikan Admin Dong"
   },
-    "session":null
+  "session": {
+    "clientID": "y1NYIJcX6O4SunUki3kgfw==",
+    "serverToken": "1@Zmt+ksahuOAKhpstaK8JBEIpS9jt6JnqAytITgKjjc+rxPnoHfcYJiG9FE2MRzl9zJ1Irw7quBfzXw==",
+    "clientToken": "GbfZaGz6QaurrtYFDRaxLIWyz0XelPKuNJsh+R/ALb8=",
+    "encKey": "2it+9RuqQl5eXXci4s/nP2u+j7eqfUw7AIUvBOEpAGM=",
+    "macKey": "CjI95c2aQm7mJqS/Lrwrct4O5PmL9GZabsjfWWZh6DY="
+  }
 }
